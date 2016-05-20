@@ -1,3 +1,2 @@
-# madmarq-github.io
-Practice Side
-Read me
+# madmarq.github.io
+
